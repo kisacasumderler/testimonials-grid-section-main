@@ -156,6 +156,11 @@ p {
     background: var(--White);
     padding: 3% 2.5%;
     border-radius: 0.5rem;
+    color: var(--Very-dark-grayish-blue);
+}
+
+.colhome:nth-child(2) h3 {
+    color: var(--Very-dark-blackish-blue);
 }
 
 @media (max-width:1400px) {
